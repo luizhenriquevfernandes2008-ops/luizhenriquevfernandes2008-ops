@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Luiz Vargas 👋</h1>
+<h1 align="center">Olá, eu sou o Luiz Vargas</h1>
 
 <p align="center">
   Desenvolvedor em formação, buscando <b>estágio em desenvolvimento, TI ou áreas correlatas de tecnologia</b>.<br>
@@ -13,13 +13,13 @@
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | O que é |
 |---|---|
@@ -28,7 +28,7 @@
 | **[Code com](https://github.com/luizhenriquevfernandes2008-ops/code-com)** | Chat auto-hospedado com servidor em **Python**, banco **SQLite**, canais, mensagens em tempo real e chamadas de voz. |
 | **[GameDock](https://github.com/luizhenriquevfernandes2008-ops/GameDock)** | Biblioteca de jogos para Windows feita em **Python**: detecta jogos de vários launchers, mede tempo de jogo e faz backup de saves. |
 
-## 📌 O que eu pratico nos projetos
+## O que eu pratico nos projetos
 
 - **Python** no back-end e em automação
 - **SQL**: modelagem de tabelas, consultas com `JOIN` e `GROUP BY`, transações
